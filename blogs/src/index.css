@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'BerkshireSwash-Regular';
+  src: local('BerkshireSwash-Regular'),url(./Fonts/BerkshireSwash-Regular/BerkshireSwash-Regular.ttf)format('woff');
+}
